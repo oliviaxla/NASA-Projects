@@ -14,4 +14,19 @@
     - Does not have polarity (electricity can flow through in either direction)
 - 2 Jumper Wires
 
+## Connections
+
 ![Schematic](docs/schematic.png)
+
+- JUMPER WIRES
+    - **D13** to J2
+    - **GND** to E1
+- LED
+    - A1(-) to A2(+)
+- 330 OHM RESISTOR
+    - E2 to F2
+
+## "I Love You" Demo Video
+[I Love You Demo](https://www.youtube.com/shorts/uJ-GWfDeTOI "I Love You Demo")
+
+> ***NOTE***    Bolded connections indicate origin on RedBoard

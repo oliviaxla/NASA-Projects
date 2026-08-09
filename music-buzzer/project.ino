@@ -21,40 +21,41 @@ void setup()
 void loop()
 {
 
-  play('g', 2);       //ha
-  play('g', 1);       //ppy
-  play('a', 4);       //birth
-  play('g', 4);       //day
-  play('C', 4);       //to
-  play('b', 4);       //you
+  play('C', 2);       //its
+  play('C', 2);       //a
+  play('G', 2);       //beau
+  play('A', 2);       //ti
+  play('A', 2);       //ful
+  play('A', 6);       //night
 
-  play(' ', 2);       //pause for 2 beats
+  play(' ', 6);       //pause for 6 beats
 
-  play('g', 2);       //ha
-  play('g', 1);       //ppy
-  play('a', 4);       //birth
-  play('g', 4);       //day
-  play('D', 4);       //to
-  play('C', 4);       //you
+  play('A', 2);       //we're
+  play('A', 2);       //loo
+  play('A', 2);       //king
+  play('G', 4);       //for
+  play('F', 2);       //some
+  play('F', 2);       //thing
+  play('G', 4);       //dumb
+  play('A', 2);       //to
+  play('D', 6);       //do
 
-  play(' ', 2);       //pause for 2 beats
+  play(' ', 14);       //pause for 14 beats
 
-  play('g', 2);       //ha
-  play('g', 1);       //ppy
-  play('G', 4);       //birth
-  play('E', 4);       //day
-  play('C', 4);       //dear
-  play('b', 4);       //your
-  play('a', 6);       //name
+  play('A', 4);       //hey
+  play('G', 3);       //ba
+  play('F', 6);       //by
 
-  play(' ', 2);       //pause for 2 beats
+  play(' ', 6);       //pause for 6 beats
 
-  play('F', 2);       //ha
-  play('F', 1);       //ppy
-  play('E', 4);       //birth
-  play('C', 4);       //day
-  play('D', 4);       //to
-  play('C', 6);       //you
+  play('D', 2);       //i
+  play('F', 2);       //think
+  play('F', 2);       //i
+  play('F', 2);       //wa
+  play('F', 2);       //nna
+  play('G', 2);       //ma
+  play('F', 2);       //rry
+  play('F', 6);       //you
 
   while (true) {}     //get stuck in this loop forever so that the song only plays once
 }

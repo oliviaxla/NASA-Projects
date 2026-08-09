@@ -28,7 +28,7 @@
     - B1 + B2 + B3
 
 ## Music Buzzer Demo Video
-[Buzzer - Marry You](https://youtube.com/shorts/RjP-dNPCjcY, "Marry You Buzzer")
+[Buzzer - Marry You](https://youtube.com/shorts/RjP-dNPCjcY?feature=share "Marry You Buzzer")
 
 > ***NOTE***    Bolded connections indicate origin on RedBoard
 

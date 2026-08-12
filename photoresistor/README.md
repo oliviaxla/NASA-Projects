@@ -31,3 +31,5 @@
 
 ## Photoresistor Demo Video
 [Photoresistor LED](https://youtube.com/shorts/AS3ucsYgyIQ "Photoresistor")
+
+> ***NOTE***    Bolded connections indicate origin on RedBoard

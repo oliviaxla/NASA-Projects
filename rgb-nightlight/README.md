@@ -43,3 +43,5 @@
 
 ## NightLight Demo Video
 [NightLight](https://youtube.com/shorts/zL-x4DLNIDI "NightLight")
+
+> ***NOTE***    Bolded connections indicate origin on RedBoard

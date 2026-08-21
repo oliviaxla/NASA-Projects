@@ -64,3 +64,8 @@
     - J14 to GND(-)
     - J20 to GND(-)
     - J26 to GND(-)
+
+## Simon Says Demo Video
+[Simon Says](https://youtube.com/shorts/zQYdfA1RaVU)
+
+> ***NOTE***    Bolded connections indicate origin on RedBoard
